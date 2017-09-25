@@ -19,7 +19,7 @@ app_license = "MIT"
 # app_include_js = "/assets/transport_management_system/js/transport_management_system.js"
 app_include_js = [
     "/assets/transport_management_system/js/transport_management_system.js",
-    "https://maps.googleapis.com/maps/api/js?v=3.exp&sensor=false&libraries=places"
+    "https://maps.googleapis.com/maps/api/js?key=AIzaSyC7HPzJQ-pm3I1aBnwkh7Puok48sh6VVHY&sensor=false&libraries=places"
 ]
 # include js, css files in header of web template
 web_include_css = "/assets/transport_management_system/css/transport_management_system.css"
